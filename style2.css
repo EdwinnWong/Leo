@@ -1,3 +1,10 @@
+header {
+  color: #FF00FF;
+  text-align: center;
+  font-family: "Garamond", serif;
+  font-size: 40px;
+}
+
 h1 {
   color: #fe218b;
   text-align: center;
