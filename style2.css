@@ -3,6 +3,7 @@ header {
   text-align: center;
   font-family: "Garamond", serif;
   font-size: 40px;
+  background: linear-gradient(0, #DC143C, #1E90FF);
 }
 
 h1 {
